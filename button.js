@@ -8,5 +8,4 @@ module.exports.keyboard = Button => {
             resize_keyboard: true,
         },
     };
-
 }
