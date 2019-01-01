@@ -108,7 +108,3 @@ bot.onText(/\/commands/, (msg) => {
     );
     console.log(msg);
 });
-
-
-
-
